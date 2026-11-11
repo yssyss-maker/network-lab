@@ -1,3 +1,4 @@
+#GitHub仓库地址: https://github.com/yssyss-maker/network-lab
 import socket
 import sys
 if len(sys.argv) < 3 or len(sys.argv) > 4:#根据题目要求把host port path加进去，然后如果参数大于4就拦截
